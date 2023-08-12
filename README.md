@@ -95,6 +95,8 @@ Coming soon 😉
 <details>
 <summary> View Server Details</summary>
 <br>
+We are using the the [plaid API](https://plaid.com/) for user security.
+
 Coming soon 😉
 </details>
 
