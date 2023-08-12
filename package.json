@@ -1,12 +1,15 @@
 {
   "name": "personal-finance-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal-Finance-TS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
 }
