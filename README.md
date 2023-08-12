@@ -1,5 +1,3 @@
-https://plaid.com/docs/
-
 # Personal-Finance-TS
 
 <a name="Description"></a>
