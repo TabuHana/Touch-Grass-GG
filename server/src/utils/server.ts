@@ -1,4 +1,5 @@
 import express from 'express';
+import routes from '../routes';
 
 function createServer() {
     // server
@@ -7,11 +8,7 @@ function createServer() {
     // middleware
     app.use(express.json());
 
-    /**
-     * @to-do
-     * add routes
-     * routes(app)
-     */
+    routes(app);
 
     return app;
 }
