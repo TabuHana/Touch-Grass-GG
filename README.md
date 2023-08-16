@@ -1,10 +1,10 @@
-# Personal-Finance-TS
+# Touch-Grass
 
 <a name="Description"></a>
 
 ## Description
 
-Personal Finance is your go-to personal finance app, making money management effortless. Track expenses, set budgets, and watch your savings grow. With bank-level security, Personal-Finance-TS is your key to financial success. 😄
+TouchGrass.gg is a revolutionary app that combines gaming with a full-body workout, making fitness an engaging and enjoyable experience. Designed for individuals of all fitness levels, TouchGrass.gg helps turn exercise into fun! 😄
 
 | **Tabel of Contents**                           |
 | ----------------------------------------------- |
@@ -93,7 +93,6 @@ Coming soon 😉
 <details>
 <summary> View Server Details</summary>
 <br>
-We are using the the [plaid API](https://plaid.com/) for user security.
 
 Coming soon 😉
 </details>
