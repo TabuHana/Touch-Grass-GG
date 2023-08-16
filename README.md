@@ -1,10 +1,10 @@
-# Touch-Grass
+# Touch-Grass-GG
 
 <a name="Description"></a>
 
 ## Description
 
-TouchGrass.gg is a revolutionary app that combines gaming with a full-body workout, making fitness an engaging and enjoyable experience. Designed for individuals of all fitness levels, TouchGrass.gg helps turn exercise into fun! 😄
+TouchGrassGG is a revolutionary app that combines gaming with a full-body workout, making fitness an engaging and enjoyable experience. Designed for individuals of all fitness levels, TouchGrassGG helps turn exercise into fun! 😄
 
 | **Tabel of Contents**                           |
 | ----------------------------------------------- |
